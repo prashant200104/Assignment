@@ -1,0 +1,149 @@
+{
+  "name": "Prashant Kumar Verma",
+  "email": "prashantkumar@kgpian.iitkgp.ac.in",
+  "phone": "+91 8949093587",
+  "department": "Department of Ocean Engineering and Naval Architecture",
+  "specialization": "Applied Micro Specialization in ARTIFICIAL INTELLIGENCE AND APPLICATIONS",
+  "academic_qualifications": [
+    {
+      "degree": "B.Tech + M.Tech",
+      "institute": "Indian Institute of Technology, Kharagpur",
+      "year": "2020 - 2025",
+      "cgpa": "8.59/10"
+    },
+    {
+      "degree": "CBSE (XII)",
+      "institute": "Cambridge Sr. Sec. School, Buhana",
+      "year": "2019",
+      "percentage": "88.4%"
+    },
+    {
+      "degree": "CBSE (X)",
+      "institute": "Kendriya Vidyalaya, Khetri Nagar, Jhunjhunu",
+      "year": "2017",
+      "cgpa": "10/10"
+    }
+  ],
+  "internships": [
+    {
+      "title": "AI Engineer Intern",
+      "company": "CMC Solutions, Japan",
+      "dates": "May’24 - Jul’24",
+      "responsibilities": [
+        "Designed and implemented a GenAI program to assess and enhance structured XML and non-structured data quality.",
+        "Developed a RAG system to evaluate XML files by generating QnA, assessing semantic tags and metadata.",
+        "Utilized evaluation metrics like RougeE, Bert Score, and perplexity to optimize text quality."
+      ],
+      "technologies": [
+        "AWS S3",
+        "Sagemaker",
+        "Lambda",
+        "Knowledgebase",
+        "Elasticsearch",
+        "FAISS",
+        "Transformers",
+        "Langchain",
+        "RAG",
+        "Source Chunking",
+        "Pinecone",
+        "Claude LLM",
+        "Embedding Model",
+        "Vector DB"
+      ]
+    },
+    {
+      "title": "Data Scientist Intern",
+      "company": "Think360.ai",
+      "dates": "Mar’24 - Present",
+      "responsibilities": [
+        "Developed and deployed a RAG ChatBot using LLM to analyze financial documents and answer queries for Complex PDFs.",
+        "Improved accuracy through advanced chunking techniques and libraries, leading to significant performance boosts.",
+        "Led end-to-end development including experimentation, deployment, and ongoing updates for operational excellence."
+      ],
+      "technologies": [
+        "LLM",
+        "LightGBM",
+        "CatBoost",
+        "Python",
+        "Polars",
+        "Pandas",
+        "Numba",
+        "TensorFlow",
+        "Pytesseract",
+        "PyMuPDF",
+        "Tabula",
+        "Streamlit",
+        "LangChain"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Credit Risk Model",
+      "type": "Self Project",
+      "dates": "Feb’24",
+      "description": "Developed a pipeline using LightGBM and CatBoost models for predicting credit risk. Implemented ROC-AUC evaluation, hyperparameter tuning, and advanced post-processing strategies."
+    }
+  ],
+  "competitive_programming": {
+    "codeforces_handle": "LiveLifeLiveToday",
+    "codeforces_rating": 1459,
+    "codechef_handle": "kumarprashant7",
+    "codechef_rating": 1834,
+    "codechef_global_rank": 112
+  },
+  "competitions": [
+    {
+      "title": "Optiver - Trading at the Close",
+      "dates": "Oct’23 - Dec’23",
+      "description": "Applied advanced ML frameworks including LightGBM, TensorFlow, and Neural Networks to optimize predictive models for financial datasets. Designed time-series cross-validation strategy and engineered diverse feature sets."
+    },
+    {
+      "title": "Amazon ML Summer School 2024",
+      "dates": "Jul’24 - Aug’24",
+      "description": "Engaged in an integrated learning experience covering ML topics such as Dimensionality Reduction, GenAI, and LLM. Interacted with Amazon Scientists to gain practical insights into ML concepts and industry applications."
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": ["C++", "Python", "Bash"],
+    "technologies": [
+      "GenerativeAI",
+      "LLMs",
+      "LightGBM",
+      "CatBoost",
+      "AWS",
+      "Vector DB",
+      "Polars",
+      "Pandas",
+      "Numba",
+      "Matplotlib",
+      "TensorFlow",
+      "Scikit-Learn",
+      "Pytesseract",
+      "PyMuPDF",
+      "Tabula",
+      "Streamlit",
+      "LangChain"
+    ]
+  },
+  "relevant_courses": [
+    "Programming and Data Structure (Theory and Lab)",
+    "Probability and Statistics",
+    "Advanced Calculus I and II",
+    "Linear Algebra",
+    "Numerical and Complex Analysis",
+    "Applied Computational Methods",
+    "Basic Engineering Mechanics"
+  ],
+  "extra_curricular_activities": [
+    {
+      "activity": "Contributed as a member of the gold-winning team in the event Illumination at AZAD Hall, IIT Kharagpur."
+    },
+    {
+      "activity": "Qualified for National Defence Academy (NDA) SSB interview organized by Government of India in 2019."
+    },
+    {
+      "activity": "Volunteer, National Service Scheme(NSS), IIT Kharagpur (Dec’20 - Apr’22). Conducted seminars on Solid Waste Management and collected information about social Government schemes for NGOs."
+    }
+  ]
+}
